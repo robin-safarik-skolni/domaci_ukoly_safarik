@@ -1,6 +1,6 @@
-# Pracovní list – člověk a prostředí				
+# Pracovní list – člověk a prostředí
 
-## jméno:
+## jméno: Robin Josef Šafařík
 
 ### Emise jsou:
 
@@ -54,7 +54,7 @@ c) Vodní energie
 
 d) Geotermální energie
 
-e) Energie mořských vly a přílivu 
+e) Energie mořských vly a přílivu
 
 ### Negativní dopad dopravy na životní prostředí je:
 
@@ -116,24 +116,28 @@ f) klimatická změna
 
 ### Hlavní znečišťující faktory půdy jsou:
 
-a) 
+a) Vypouštění odpadu
 
-b)
+b) Stavba silnic
 
-c)
+c) Těžba hornin
 
 ### Vysvětlete, co znamená:
 
 a) eroze
 
+- degradace půdy způsoben např. deštěm, větrem nebo povodněmi
+
 b) zhutňování půdy
+
+- opakované zpracování půdy => snížení půrovitosti a propustnosti půdy
 
 ### Možnosti řešení problémů s odpady jsou
 
-a) 
+a) Lépe vzdělávat lidi o třídění odpadu
 
-b) 
+b) Zavést lepší infrastrukturu
 
-c)
+c) Přestat používat plastové výrobky
 
-d)
+d) Recyklovat odpad
