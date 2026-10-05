@@ -34,15 +34,15 @@ c) Průmyslový smog
 
 a) Spalování uhlí
 
-- Silné emise z fosilního paliva
+- Silné emise - CO2
 
-b) Vodní elektrárny
+b) Ropa
 
-- Prakticky žádný negativní dopad na živ. prostředí
+- Při spalování vznikají skleníkové plyny
 
-c) Větrné elektrárny
+c) Jaderná energie
 
-- Taktéž skoro žádný negativní dopad na živ. prostředí (nezapočítávaje emise uvolněné při stavbě elektráren)
+- Radioaktivní odpad
 
 ### Uveďte alternativní zdroje energie:
 
@@ -57,45 +57,83 @@ d) Geotermální energie
 e) Energie mořských vly a přílivu 
 
 ### Negativní dopad dopravy na životní prostředí je:
-a)
-b)
-c)
+
+a) Spalování paliv
+
+b) Stavba infrastruktury - kácení lesů
+
+c) Nadužívání dopravy
+
 ### Uveďte možnosti řešení negativního dopadu dopravy na životní prostředí:
-a)
-b)
-c)
+
+a) Elektromobilita
+
+b) Větší využívání hromadné dopravy a snížení množství spalovacích motorů
+
+c) Necestovat letadly
+
 ### Podle typu látek znečišťující vodu rozeznáváme znečištění:
-a)
-b)
-c)
-d)
+
+a) Mechanické
+
+b) Chemické
+
+c) Biologické
+
+d) Tepalné
+
 ### Zdroje znečištění vody vlivem zemědělství jsou:
-a)
-b)
-c)
+
+a) Agressivní hnojiva
+
+b) Pesticidy
+
+c) Odpadní látky
+
 ### Uveďte změny vodního režimu krajiny:
-a)
-b)
-c)
-d)
+
+a) Odvodňování mokřadů a bažin
+
+b) Regulace a narovnávání toků řek
+
+c) Výstavba přehrad
+
+d) Zpevňování povrchů - silnice
+
 ### Mezi nejzávažnější poškozování mořských ekosystémů patří:
-a)
-b)
-c)
-d)
-e)
-f)
+
+a) Znečištění ropnými haváriemi
+
+b) Plastový odpad
+
+c) Vypouštění odpadních vod
+
+d) Nadměrný rybolov
+
+e) Ničení ekosystémů, např. korál. útesů
+
+f) klimatická změna
+
 ### Hlavní znečišťující faktory půdy jsou:
-a)
+
+a) 
+
 b)
+
 c)
+
 ### Vysvětlete, co znamená:
+
 a) eroze
 
 b) zhutňování půdy
 
 ### Možnosti řešení problémů s odpady jsou
+
 a) 
+
 b) 
+
 c)
+
 d)
