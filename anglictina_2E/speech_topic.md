@@ -1,1 +1,1 @@
-# The beauty of stupid ideas
+# The Beauty of a Stupid Idea
